@@ -8,6 +8,7 @@
 4. Speed calculation w.r.t weather research - Yuvashri
 5. Optimum LED Display market research - Yuvashri
 6. Fog / Visibility measurement using AI/ML - Yuvashree
+7. Stagnant Water measurement using AI/ML - Yuvashree
 
 ### Task Submission Schema
 
