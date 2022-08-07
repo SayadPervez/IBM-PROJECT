@@ -1,14 +1,26 @@
 # IBM-PROJECT
 ## IBM IOT BASED TRAFFIC SIGNS BILLBOARD PROJECT
 
+### Project Summary :
+A digital LED display based traffic sign will be attached at every road junction. Depending on the weather, visibility, rain, stagnant water, quality of road and traffic conditions, the sign changes the recommended speed limit, redirects traffic and allows emergency vehicles to pass through without delay.
+
 ### Milestones :
-1. Hardware research and Socket Communication - Sayad Pervez
-2. Image to Map algorithm developement - Ulagaraja
-3. Open Weather API python program - Yuvashri
-4. Speed calculation w.r.t weather research - Yuvashri
-5. Optimum LED Display market research - Yuvashri
-6. Fog / Visibility measurement using AI/ML - Yuvashree
-7. Stagnant Water measurement using AI/ML - Yuvashree
+1. Open Weather API
+2. Location API -> IP/Manual based
+3. Speed Prediction
+4. Optimum Display Procurement
+5. Rain Measurement -> Image/Sensor based
+6. Fog/Visibility Measurement -> Image based AI/ML 
+7. Dashboard, GUI and remote server control
+8. Image Transmission
+9. Programming the LED Display
+10. Hardware & Software Integration
+
+### Optional Milestones :
+1. Route planning -> Image based/ Manual/ Google maps API
+2. Intelligent Path processing
+3. Road Quality Measurement
+4. Emergency Vehicle Assistance
 
 ### Task Submission Schema
 
